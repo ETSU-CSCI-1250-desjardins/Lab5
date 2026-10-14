@@ -1,0 +1,14 @@
+C:\Users\desjardinsm\Documents\CSCI1250\Lab5\DecisionsArraysMethods\bin\Debug\net10.0\DecisionsArraysMethods.exe
+C:\Users\desjardinsm\Documents\CSCI1250\Lab5\DecisionsArraysMethods\bin\Debug\net10.0\DecisionsArraysMethods.deps.json
+C:\Users\desjardinsm\Documents\CSCI1250\Lab5\DecisionsArraysMethods\bin\Debug\net10.0\DecisionsArraysMethods.runtimeconfig.json
+C:\Users\desjardinsm\Documents\CSCI1250\Lab5\DecisionsArraysMethods\bin\Debug\net10.0\DecisionsArraysMethods.dll
+C:\Users\desjardinsm\Documents\CSCI1250\Lab5\DecisionsArraysMethods\bin\Debug\net10.0\DecisionsArraysMethods.pdb
+C:\Users\desjardinsm\Documents\CSCI1250\Lab5\DecisionsArraysMethods\obj\Debug\net10.0\DecisionsArraysMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desjardinsm\Documents\CSCI1250\Lab5\DecisionsArraysMethods\obj\Debug\net10.0\DecisionsArraysMethods.AssemblyInfoInputs.cache
+C:\Users\desjardinsm\Documents\CSCI1250\Lab5\DecisionsArraysMethods\obj\Debug\net10.0\DecisionsArraysMethods.AssemblyInfo.cs
+C:\Users\desjardinsm\Documents\CSCI1250\Lab5\DecisionsArraysMethods\obj\Debug\net10.0\DecisionsArraysMethods.csproj.CoreCompileInputs.cache
+C:\Users\desjardinsm\Documents\CSCI1250\Lab5\DecisionsArraysMethods\obj\Debug\net10.0\DecisionsArraysMethods.dll
+C:\Users\desjardinsm\Documents\CSCI1250\Lab5\DecisionsArraysMethods\obj\Debug\net10.0\refint\DecisionsArraysMethods.dll
+C:\Users\desjardinsm\Documents\CSCI1250\Lab5\DecisionsArraysMethods\obj\Debug\net10.0\DecisionsArraysMethods.pdb
+C:\Users\desjardinsm\Documents\CSCI1250\Lab5\DecisionsArraysMethods\obj\Debug\net10.0\DecisionsArraysMethods.genruntimeconfig.cache
+C:\Users\desjardinsm\Documents\CSCI1250\Lab5\DecisionsArraysMethods\obj\Debug\net10.0\ref\DecisionsArraysMethods.dll
